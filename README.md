@@ -1,0 +1,1 @@
+# Script para emove as caixas compartilhada (SharedMailbox) de todos os as equipes do MS Teams
